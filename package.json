@@ -1,0 +1,18 @@
+{
+  "name": "mysql_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "setiawan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "exp": "^57.2.1",
+    "mysql": "github:mysqljs/mysql",
+    "npm": "^6.4.1"
+  }
+}
